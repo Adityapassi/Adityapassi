@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityapassi
+- 👋 Hi, I’m @Aditya
 - 👀 I’m interested in Web Designing and Frontend Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ... adityapassi01@gmail.com
